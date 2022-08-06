@@ -1,7 +1,5 @@
 dgyd
 cdvgns
 ii
-<<<<<<< HEAD
-=======
 fix test
->>>>>>> hot-fix
+ hot-fix
